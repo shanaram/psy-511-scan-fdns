@@ -65,7 +65,14 @@
 ### Shana Ramsook
 
 - Blair, C. (2002). School readiness: Integrating cognition and emotion in a neurobiological conceptualization of children's functioning at school entry.American psychologist, 57(2), 111.  <http://dx.doi.org/10.1037/0003-066x.57.2.111>.
+    -theoretical paper, connectivity, developmental change/plasticity
+    -bidirectional links betwen limbic (amygdala, vagus) and frontal (dorsolateral PFC, ACC, orbital PFC) brain
+    -EEG asymmetry, sympathetic & parasympathetic physiological arousal
+
 - McRae, K., Gross, J. J., Weber, J., Robertson, E. R., Sokol-Hessner, P., Ray, R. D., … Ochsner, K. N. (2012). The development of emotion regulation: an fMRI study of cognitive reappraisal in children, adolescents and young adults. Social Cognitive and Affective Neuroscience, 7, 11–22. <http://dx.doi.org/10.1093/scan/nsr093>.
+    -developmental trajectory of reappraisal 
+    -instructed strategy use task, fMRI analyses
+    -left ventrolateral PFC, vmPFC
 
 ### Hillary Galloway-Long
 
